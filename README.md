@@ -1,7 +1,7 @@
 # zabbix-postfix-template
 Zabbix template for Postfix SMTP server
 
-Works for Zabbix 4.x
+Tested with Zabbix Server 5.x LTS and Zabbix Agent 5.x LTS and Zabbix Agent2 5.x LTS
 
 Forked from http://admin.shamot.cz/?p=424
 
